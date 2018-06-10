@@ -1,0 +1,337 @@
+font-family: 'Luckiest Guy', cursive;
+
+/* nav */
+div.sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+}
+
+/* link design (nav) */
+
+
+.sticky a:link, a:visited {
+    background-color: black;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:link {color: #FF9207;}
+
+body {
+    background-color: #FF9207;
+    text-align: center;
+    padding-right: 10em;
+    padding-left: 10em;
+}
+
+.beskrivelseafideboks {
+    background-color: white;
+}
+
+.box {
+    text-align: center;
+    font-size: 1.2em;
+    text-align: center;
+    align-content: center;
+    color: #ffffff;
+    padding: 1px;
+
+    margin-top: 5em;
+    width: 400px;
+    background-color: #1F2532;
+    margin-left: 17em;
+}
+
+.box2 {
+    font-size: 1.2em;
+    text-align: center;
+    align-content: center;
+    color: #ffffff;
+    padding: 1px;
+
+
+    width: 400px;
+    background-color: #000;
+    margin-left: 25em;
+    margin-bottom: 5em;
+}
+
+h2 {
+    font-size: 2em;
+}
+
+p {
+    padding-left: 15em;
+    padding-right: 15em;
+    padding-bottom: 5em;
+}
+
+
+
+.beskrivelseafidecontainer {
+    padding-top: 5em;
+}
+
+.beskrivelseafide {
+    text-align: left;
+}
+
+.moodboard {
+    padding-left: 5em;
+    width: 80%;
+    padding-bottom: 2.5em;
+}
+
+
+.persona {
+    padding-bottom: 5em;
+}
+
+.storyboard {
+    padding-bottom: 5em;
+}
+
+
+.flowchart {
+    padding-bottom: 5em;
+}
+
+.streg {
+    background-color: #FF9207;
+    padding-bottom: 10em;
+}
+
+.styletilecontainer {
+    padding-top: 5em;
+}
+
+.styletile {
+    padding-left: 5em;
+    width: 80%;
+    padding-bottom: 2.5em;
+}
+
+.instagram {
+    padding-left: 7.5em;
+    width: 70%;
+    padding-bottom: 2.5em;
+}
+
+.skitser {
+    padding-bottom: 5em;
+}
+
+.layoutdiagram {
+    padding-top: 5em;
+    padding-bottom: 5em;
+}
+
+.sekvensdiagram {
+    padding-bottom: 5em;
+}
+
+.assetliste {
+    padding-bottom: 5em;
+}
+
+.test {
+    padding-bottom: 5em;
+}
+
+.ferniseringcontainer {
+    padding-top: 5em;
+}
+
+.fernisering {
+    padding-left: 7.5em;
+    width: 70%;
+    padding-bottom: 2.5em;
+}
+
+.trello {
+    padding-top: 5em;
+    padding-bottom: 5em;
+}
+
+.backlog {
+    padding-bottom: 5em;
+    padding-left: 5em;
+    width: 80%;
+    padding-bottom: 2.5em;
+}
+
+.burndownchart {
+    padding-bottom: 5em;
+}
+
+
+/* nav */
+div.sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+}
+
+/* link design (nav) */
+
+
+.sticky a:link, a:visited {
+    background-color: black;
+    color: #FF9207;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+
+a:link {color: #FF9207;}
+
+body {
+    background-color: #FF9207;
+    text-align: center;
+    padding-right: 10em;
+    padding-left: 10em;
+}
+
+.beskrivelseafideboks {
+    background-color: white;
+}
+
+.box {
+    text-align: center;
+    font-size: 1.2em;
+    text-align: center;
+    align-content: center;
+    color: #ffffff;
+    padding: 1px;
+
+    margin-top: 5em;
+    width: 400px;
+    background-color: #1F2532;
+    margin-left: 17em;
+}
+
+.box2 {
+    font-size: 1.2em;
+    text-align: center;
+    align-content: center;
+    color: #ffffff;
+    padding: 1px;
+
+
+    width: 400px;
+    background-color: #000;
+    margin-left: 25em;
+    margin-bottom: 5em;
+}
+
+h2 {
+    font-size: 2em;
+}
+
+p {
+    padding-left: 15em;
+    padding-right: 15em;
+    padding-bottom: 5em;
+}
+
+
+
+.beskrivelseafidecontainer {
+    padding-top: 5em;
+}
+
+.beskrivelseafide {
+    text-align: left;
+}
+
+.moodboard {
+    padding-left: 5em;
+    width: 80%;
+    padding-bottom: 2.5em;
+}
+
+
+.persona {
+    padding-bottom: 5em;
+}
+
+.storyboard {
+    padding-bottom: 5em;
+}
+
+
+.flowchart {
+    padding-bottom: 5em;
+}
+
+.streg {
+    background-color: #FF9207;
+    padding-bottom: 10em;
+}
+
+.styletilecontainer {
+    padding-top: 5em;
+}
+
+.styletile {
+    padding-left: 5em;
+    width: 80%;
+    padding-bottom: 2.5em;
+}
+
+.instagram {
+    padding-left: 7.5em;
+    width: 70%;
+    padding-bottom: 2.5em;
+}
+
+.skitser {
+    padding-bottom: 5em;
+}
+
+.layoutdiagram {
+    padding-top: 5em;
+    padding-bottom: 5em;
+}
+
+.sekvensdiagram {
+    padding-bottom: 5em;
+}
+
+.assetliste {
+    padding-bottom: 5em;
+}
+
+.test {
+    padding-bottom: 5em;
+}
+
+.ferniseringcontainer {
+    padding-top: 5em;
+}
+
+.fernisering {
+    padding-left: 7.5em;
+    width: 70%;
+    padding-bottom: 2.5em;
+}
+
+.trello {
+    padding-top: 5em;
+    padding-bottom: 5em;
+}
+
+.backlog {
+    padding-bottom: 5em;
+    padding-left: 5em;
+    width: 80%;
+    padding-bottom: 2.5em;
+}
+
+.burndownchart {
+    padding-bottom: 5em;
+}

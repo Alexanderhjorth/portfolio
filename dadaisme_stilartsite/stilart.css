@@ -1,0 +1,220 @@
+/* Generelle indstillinger */
+
+img {
+    width: 100%;
+}
+
+body {
+    background-color: #C4A38A;
+    margin: 1em 3em;
+
+}
+
+/* Om sektionen */
+
+#om .sectionwrapper {
+    display: flex;
+    flex-wrap:wrap;
+}
+
+#om .column {
+    flex-basis: 400px;
+    flex-grow: 1;
+}
+
+/* eksempler */
+
+#eksempler .sectionwrapper {
+    display:flex;
+    flex-wrap: wrap;
+}
+#eksempler .column {
+    flex-basis: 400px;
+    flex-grow: 1;
+
+}
+#eksempler .column_content {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100%;
+}
+
+/* typografi */
+
+#typografi .sectionwrapper {
+    display:flex;
+    flex-wrap: wrap;
+}
+
+#typografi .column_wide {
+    flex-basis: 400px;
+    flex-grow: 3;
+}
+
+#typografi .top {
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+#typografi .txt {
+    flex-basis: 200px;
+    flex-grow: 1;
+}
+
+#typografi .image {
+    flex-basis: 200px;
+    flex-grow: 1;
+}
+
+#typografi .bottom {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+#typografi .column_narrow {
+    flex-basis: 400px;
+    flex-grow: 1;
+}
+
+/* komposition og farver */
+
+#komposition_farver .sectionwrapper {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#komposition_farver .column_wide {
+    flex-basis: 400px;
+    flex-grow: 3;
+}
+
+#komposition_farver .column_narrow {
+    flex-basis: 400px;
+    flex-grow: 1;
+}
+
+#komposition_farver .column_content {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row-reverse;
+}
+
+#komposition_farver .colors {
+    flex-basis: 200px;
+    flex-grow: 1;
+}
+
+.color1 {
+    width: 150px;
+    height: 150px;
+}
+
+.color2 {
+    width: 150px;
+    height: 150px;
+}
+
+.color3 {
+    width: 150px;
+    height: 150px;
+}
+
+.color4 {
+    width: 150px;
+    height: 150px;
+}
+
+#komposition_farver .content {
+    flex-basis: 200px;
+    flex-grow: 3;
+}
+
+/* links */
+
+#links .sectionwrapper {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#links .content {
+    flex-basis: 400px;
+    flex-grow: 1;
+}
+
+/* ekstra */
+
+#ekstra .sectionwrapper {
+    display: flex;
+    flex-wrap:wrap;
+
+}
+
+#ekstra .content {
+    flex-basis: 400px;
+    flex-grow: 1;
+}
+
+/* styletile */
+
+#styletile .sectionwrapper {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+#styletile .content {
+    flex-basis: 400px;
+    flex-grow: 1;
+}
+
+/* fonte til styletile */
+
+
+#styletile {
+    background-color: antiquewhite;
+}
+
+#styletile p {
+    font-family: 'Open Sans', sans-serif;
+}
+
+#styletile h1 {
+    font-family: 'kingthings_extortion_regular', sans-serif;
+    font-size: 50px;
+}
+
+#styletile h2 {
+    font-size: 30px;
+    font-family: "open sans", sans-serif;
+}
+
+@font-face {
+    font-family: 'kingthings_extortion_regular';
+    src: url('kingthings_extortion-webfont.woff2') format('woff2'),
+         url('kingthings_extortion-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+#styletile .colors {
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+#styletile .color1 {
+    background-color: #152729;
+}
+
+#styletile .color2 {
+    background-color: #7C1F17;
+}
+
+#styletile .color3 {
+    background-color: #44767D;
+}
+
+#styletile .color4 {
+    background-color: #BAA28A;
+}
